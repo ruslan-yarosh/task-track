@@ -10,11 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fullcalendar/core": "^6.1.10",
+    "@fullcalendar/daygrid": "^6.1.10",
+    "@fullcalendar/react": "^6.1.10",
+    "bootstrap": "^5.3.2",
+    "json-server": "^1.0.0-alpha.22",
     "react": "^18.2.0",
+    "react-big-calendar": "^1.8.6",
+    "react-bootstrap": "^2.10.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/globalize": "^1.5.5",
     "@types/react": "^18.2.43",
+    "@types/react-big-calendar": "^1.8.8",
     "@types/react-dom": "^18.2.17",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
